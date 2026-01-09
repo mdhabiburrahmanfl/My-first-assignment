@@ -258,3 +258,34 @@ nav .pera p:last-child {
 #solution .solution-info .check:last-child {
     margin: none;
 }
+#challenge {
+    display: block;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+
+#challenge .challenge-content {
+    margin: 0 120px 120px 120px;
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 80px 0 80px;
+}
+
+#challenge .challenge-content h2 {
+    font-size: 40px;
+    font-weight: 700 ;
+    color: #001931;
+}
+#challenge .challenge-content .margin {
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+#challenge .challenge-content button  {
+    margin-bottom: 16px;
+}
+#challenge .challenge-content p {
+    font-size: 16px;
+    color: #627382;
+    line-height: 24px;
+}
