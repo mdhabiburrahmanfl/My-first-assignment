@@ -145,3 +145,55 @@ nav .pera p:last-child {
     width: 20px;
     height: 20px;
 }
+
+#header-two {
+    border: 1px solid black;
+    width: 100%;
+    max-width: 1920px;
+    text-align: center;
+}
+#header-two .main-header{
+    padding: 60px 400px;
+}
+
+#header-two .main-header h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin: 16px;
+
+}
+#header-two .main-header p {
+    color: #627382;
+    font-size: 16px;
+}
+#header-two .card {
+    display: flex;
+}
+#header-two .card .card-one {
+    margin: 0 auto;
+    width: 322px;
+    height: 300px;
+    padding: 24px;
+    box-shadow: 0 6px 50px 0 #00000021;
+}
+#header-two .card .card-one img {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    padding: 13px;
+    border-radius: 30px;
+    background-color: #F95555;
+}
+#header-two .card .card-one h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#header-two .card .card-one p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
