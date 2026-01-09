@@ -289,3 +289,43 @@ nav .pera p:last-child {
     color: #627382;
     line-height: 24px;
 }
+footer {
+    background-color: #000000;
+    padding: 120px 120px 30px 120px;
+}
+
+.footer-container .display-flex {
+    display: flex;
+    gap: 1400px;
+    
+}
+.footer-container .display-flex .social {
+    margin-bottom: 80px;
+}
+
+.footer-container .display-flex .social .only-p p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.footer-container .display-flex .social-icon {
+    justify-content: center;
+    padding-left: 22px;
+    padding-top: 7px;
+}
+.footer-container .display-flex .social-icon a {
+    color: #FFFFFF;
+    border-radius: 30px;
+    margin-bottom: 16px;
+    height: 20px;
+    width: 20px;
+}
+
+.footer-container .copyright {
+    text-align: center;
+    color: #fff;
+    border-top: 0.3px solid #99a1a78f;
+    padding-top: 16px;
+
+}
